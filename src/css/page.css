@@ -26,7 +26,7 @@ html {
 
     body::-webkit-scrollbar-thumb
     {
-        background-color: #323A45;
+        background-color: rgb(38, 114, 57);
     }
 }
 
